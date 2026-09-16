@@ -1,5 +1,7 @@
 # git-tape
 
+![Rule Git Graph](screenshot-rule.PNG)
+
 `git-tape` turns the GitHub contribution calendar into a programmable 7-pixel-high scrolling display.
 
 The default pattern is an infinite prime-number ticker:
